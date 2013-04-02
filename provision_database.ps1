@@ -1,0 +1,1 @@
+sqlcmd -S $args[0] -i provision_database.sql

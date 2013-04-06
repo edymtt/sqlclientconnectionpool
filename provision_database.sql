@@ -9,6 +9,8 @@ DROP DATABASE txTry
 
 CREATE DATABASE txTry
 
+USE txTry
+
 CREATE TABLE TxTable1
 (
 Id int
